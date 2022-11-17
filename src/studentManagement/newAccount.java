@@ -1,5 +1,5 @@
 package studentManagement;
-//read msq doc
+//read msq doc,,ssd, core i5, later gen, 8gb ram.
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
