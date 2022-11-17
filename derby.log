@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Nov 17 18:51:15 UTC 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0184-86ee-45eb-00000771c7e8 
+on database directory /home/emelda/IdeaProjects/swingPractice/src/studentManagement/new_file with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@67424e82 
+Loaded from file:/home/emelda/.config/JetBrains/IntelliJIdea2022.2/jdbc-drivers/Apache%20Derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=JetBrains s.r.o.
+java.runtime.version=17.0.4+7-b469.53
+user.dir=/home/emelda/IdeaProjects/swingPractice
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-104-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
